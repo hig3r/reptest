@@ -1,1 +1,3 @@
 afo
+foo
+baz
